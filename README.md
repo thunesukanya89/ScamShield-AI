@@ -35,3 +35,10 @@ ScamShield AI is a web application that uses artificial intelligence to analyze 
 
 ## Disclaimer
 AI analysis can make mistakes. Always verify suspicious messages independently.
+## Screenshots
+
+### 1. ScamShield AI Home Page
+![Home Page](scamshield-home.png)
+
+### 2. Scam Analysis Result
+![Analysis Result](scamshield-analysis.png)
